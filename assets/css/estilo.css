@@ -1,0 +1,22 @@
+/*--------------------------------------------
+Hoja de Estilo creado por Nextpyme
+----------------------------------------------*/
+.puntero{
+  cursor:pointer!important;
+}
+
+.btn_circular{
+    width: 80px;
+    height: 80px;
+    background-color: #d93f3f;
+    color:white;
+    border-radius: 50px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+#alert_datos{
+  display: none;
+}
