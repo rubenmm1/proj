@@ -1,0 +1,35 @@
+﻿VALEX-UPDATE  (27-Sep-2021)
+
+		
+*********************************************************************************************
+
+1) UI Improved
+
+2) header right menu navigation html updated 
+
+*********************************************************************************************
+
+
+////////////////////////////////////////////////////////////////////
+
+1) UI Improved
+
+///////////////////////////////////////////////////////////////////
+
+  please replace below 4 folders to get updated UI
+
+         "css", "css-rtl", "scss", "scss-rtl" followed by the location => Html\valex\assests 
+
+
+
+////////////////////////////////////////////////////////////////////
+
+2)header right menu navigation html updated 
+
+ please check "01.jpg" image
+
+///////////////////////////////////////////////////////////////////
+
+NOTE:-If you are using scss files then please  run gulp  command  as directed in documentation.if you need to know more about gulp go through gulp tutorials.
+      If you are using css files no need to run the gulp.
+

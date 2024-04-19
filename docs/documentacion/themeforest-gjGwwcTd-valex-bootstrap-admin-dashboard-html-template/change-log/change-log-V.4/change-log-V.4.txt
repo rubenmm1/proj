@@ -1,0 +1,87 @@
+﻿VALEX-UPDATE  (06-October-2021)
+
+		
+*********************************************************************************************
+
+1) Fixed Responsive Ui issues
+
+2) Updated Some Html Pages
+
+*********************************************************************************************
+
+
+////////////////////////////////////////////////////////////////////
+
+1) UI Improved
+
+///////////////////////////////////////////////////////////////////
+
+Please replace below mentioned files to fix issues :-
+
+----------
+step :1:-
+----------
+
+Note: If your using scss files then replace below files and run gulp command as shown in the documentation.
+
+
+	    File name		     Path
+		
+	    _sidebar.scss   	 -   Html\valex\assets\scss\layout
+	   _custom-styles.scss	 -   Html\valex\assets\scss\custom
+	    sidemenu.scss	 -   Html\valex\assets\css	  
+	    style-dark.scss	 -   Html\valex\assets\css
+	    skin-modes.scss	 -   Html\valex\assets\css
+
+
+----------
+step :2:-
+----------
+
+If you are not using scss then replace the css files mentioned below.
+
+
+	    File name		     Path
+		
+	    style.css  		 -   Html\valex\assets\css
+	    sidemenu.css	 -   Html\valex\assets\css	  
+	    style-dark.css	 -   Html\valex\assets\css
+	    skin-modes.css	 -   Html\valex\assets\css
+
+
+
+////////////////////////////////////////////////////////////////////
+
+2) Updated Some Html Pages
+
+///////////////////////////////////////////////////////////////////
+
+
+Please replace below mentioned html files in both Ltr and Rtl versions. 
+
+				
+FOR LTR:
+
+	    File name		    	    Path
+		
+	    userlist.html  		-   Html\valex\HTML-LTR\Leftmenu-Icon-Light-Sidebar (&) Html\valex\HTML-LTR\Horizontal-Light
+	    profile.html	 	-   Html\valex\HTML-LTR\Leftmenu-Icon-Light-Sidebar (&) Html\valex\HTML-LTR\Horizontal-Light	  
+	    underconstruction.html	-   Html\valex\HTML-LTR\Leftmenu-Icon-Light-Sidebar (&) Html\valex\HTML-LTR\Horizontal-Light
+
+
+
+
+			
+FOR RTL:
+
+	    File name : 		    Path
+		
+	    userlist.html  		-   Html\valex\HTML-RTL\Sidemenu-Icon-Light-Sidebar (&) Html\valex\HTML-RTL\Horizontal-Light
+	    userlist.html	 	-   Html\valex\HTML-RTL\Sidemenu-Icon-Light-Sidebar (&) Html\valex\HTML-RTL\Horizontal-Light	  
+	    underconstruction.html	-   Html\valex\HTML-RTL\Sidemenu-Icon-Light-Sidebar (&) Html\valex\HTML-RTL\Horizontal-Light
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+LOCAL:
+----- Administracion ------
+URL: http://192.168.0.100/d3idi/web/admin3770xyp
+
+User: admin
+Pass: Npyme2004
+
+User: operario
+Pass: admin
+
+
+------ Cliente -------
+URL: http://192.168.0.100/d3idi/web/
+
+User: nextpyme
+Pass: admin
